@@ -46,6 +46,9 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
          ![revenue by year](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/67757aca-0730-44d9-b7c9-64ec335aa54e)
 
        -	Total revenue by state:
+   
+         ![revenue by state](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/b8672c55-139b-4ebe-a583-4ffbe943f242)
+
        -	Total_units_sold by year:
        -	Total_units_sold by state:
        -	Different stores:
