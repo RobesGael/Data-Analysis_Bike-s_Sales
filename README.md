@@ -42,6 +42,9 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
       
     * __Quick analysis:__
        -	Total revenue by year:
+   
+         ![revenue by year](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/67757aca-0730-44d9-b7c9-64ec335aa54e)
+
        -	Total revenue by state:
        -	Total_units_sold by year:
        -	Total_units_sold by state:
