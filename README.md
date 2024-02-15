@@ -58,6 +58,9 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
          ![totalunit by state](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/2fd8643e-edd0-4297-8d12-805f052d6916)
       
        -	Different stores:
+   
+         ![differentstore](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/9eefa2c9-eeb8-4fa9-964c-24183d66a983)
+
        -	Different bike’s category:
  
          
