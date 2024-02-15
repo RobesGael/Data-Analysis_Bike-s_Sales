@@ -19,3 +19,33 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
   -	I Opened MySQL Workbench and imported the bikestore dataset.
   -	I Preformed the following SQL queries:
      * __For discover the data__
+       
+       ![Select from bikebikestore](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/f1f45746-2047-46d0-90c2-ce75ca1291d7)
+
+    * __For Rename some columns and modify data type__
+    * __I added three new columns: weekdays, months, and years.__
+    * __Quick validation: I opened the CSV file and check the total revenue and total_units Revenue = 8578989 and Total_units = 7078. Everything looks good.__
+    * __Quick analysis:__
+       -	Total revenue by year:
+       -	Total revenue by state:
+       -	Total_units_sold by year:
+       -	Total_units_sold by state:
+       -	Different stores:
+       -	Different bike’s category:
+ 
+         
++ I exported (named bikestore_update) the data for visualization and analysis.
+
+
+
+
+
++ EDA
+I used Power BI for visualization and analysis. I built an interactive Dashboard that contents 15 different charts such as clustered bar chart, clustered column chart, line chart, map chart, pie chart and donut chart. (Total revenue by Year, Total revenue by States, Total revenue by Store, Total revenue by Brand, Total revenue by Category, Total revenue by state and sales Representant, Top 10 revenue by cities, Bottom 10 revenue by cities, Top 10 revenue by customers, Bottom 10 revenue by customers, Total revenue by weekday, Total Revenue by Year and month, Total unit Sold by Year and month, Total revenue by Year and category, Total unit Sold by Year and category. 
+
++ Dashboard Validation
+Before moving forward, I used SQL queries to validate the dashboard.
+
+
+
+
