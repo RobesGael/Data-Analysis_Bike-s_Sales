@@ -62,6 +62,8 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
          ![differentstore](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/9eefa2c9-eeb8-4fa9-964c-24183d66a983)
 
        -	Different bike’s category:
+
+         ![differentcategory](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/0d18c344-d033-4547-8a1a-dd1d5956c625)
  
          
 + I exported (named bikestore_update) the data for visualization and analysis.
@@ -70,7 +72,7 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
 
 
 
-+ EDA
++ EDA: 
 I used Power BI for visualization and analysis. I built an interactive Dashboard that contents 15 different charts such as clustered bar chart, clustered column chart, line chart, map chart, pie chart and donut chart. (Total revenue by Year, Total revenue by States, Total revenue by Store, Total revenue by Brand, Total revenue by Category, Total revenue by state and sales Representant, Top 10 revenue by cities, Bottom 10 revenue by cities, Top 10 revenue by customers, Bottom 10 revenue by customers, Total revenue by weekday, Total Revenue by Year and month, Total unit Sold by Year and month, Total revenue by Year and category, Total unit Sold by Year and category. 
 
 + Dashboard Validation
