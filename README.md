@@ -22,8 +22,12 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
        
        ![Select from bikebikestore](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/f1f45746-2047-46d0-90c2-ce75ca1291d7)
 
+    * __For check the all the columns name and format types__
+ 
+      ![Describe 1](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/6636c806-89fe-4159-8305-7ba3918aa2a8)
+
     * __For Rename some columns and modify data type__
-    * __I added three new columns: weekdays, months, and years.__
+   	* __I added three new columns: weekdays, months, and years.__
     * __Quick validation: I opened the CSV file and check the total revenue and total_units Revenue = 8578989 and Total_units = 7078. Everything looks good.__
     * __Quick analysis:__
        -	Total revenue by year:
