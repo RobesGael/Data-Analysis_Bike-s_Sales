@@ -35,6 +35,8 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
       ![daymonthyear](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/9451a35a-78c5-4d37-a31e-d2f19fe79856)
 
     * __Quick validation: I opened the CSV file and check the total revenue and total_units Revenue = 8578989 and Total_units = 7078. Everything looks good.__
+ 
+      ![revenue validation](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/4e49173e-547f-45a3-be2a-360cc8fad232)
     * __Quick analysis:__
        -	Total revenue by year:
        -	Total revenue by state:
