@@ -75,9 +75,22 @@ Prerequisites: Word, Excel, PowerPoint, SQL, Power BI.
 + EDA: 
 I used Power BI for visualization and analysis. I built an interactive Dashboard that contents 15 different charts such as clustered bar chart, clustered column chart, line chart, map chart, pie chart and donut chart. (Total revenue by Year, Total revenue by States, Total revenue by Store, Total revenue by Brand, Total revenue by Category, Total revenue by state and sales Representant, Top 10 revenue by cities, Bottom 10 revenue by cities, Top 10 revenue by customers, Bottom 10 revenue by customers, Total revenue by weekday, Total Revenue by Year and month, Total unit Sold by Year and month, Total revenue by Year and category, Total unit Sold by Year and category. 
 
-+ Dashboard Validation
++ Dashboard Validation:
 Before moving forward, I used SQL queries to validate the dashboard.
 
-
-
+      - Total revenue by Year
+      -	Total revenue by State
+      -	Total revenue by Store
+      -	Total revenue by Brand
+      -	Total revenue by Category
+      -	Total revenue by state and sales Representant
+      -	Top 10 revenue by cities
+      -	Bottom 10 revenue by cities
+      -	Top 10 revenue by customers
+      -	Bottom 10 revenue by customers
+      -	Total revenue by weekday
+      -	Total Revenue by Year and month
+      - Total units Sold by Year and month.
+      -	Total revenue by Year and category
+      -	Total units Sold by Year and category.
 
