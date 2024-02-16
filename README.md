@@ -77,9 +77,13 @@ I used Power BI for visualization and analysis. I built an interactive Dashboard
 
 + Dashboard Validation:
 Before moving forward, I used SQL queries to validate the dashboard.
+  - Total revenue by Year
 
-      - Total revenue by Year
-      -	Total revenue by State
+![V rev by year](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/9ce5f871-7e73-4c01-90ff-9e9abc1e97d6)
+
+  - Total revenue by State
+
+    
       -	Total revenue by Store
       -	Total revenue by Brand
       -	Total revenue by Category
