@@ -77,11 +77,12 @@ I used Power BI for visualization and analysis. I built an interactive Dashboard
 
 + Dashboard Validation:
 Before moving forward, I used SQL queries to validate the dashboard.
-  - Total revenue by Year
+
+      - Total revenue by Year
 
 ![V rev by year](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/9ce5f871-7e73-4c01-90ff-9e9abc1e97d6)
 
-  - Total revenue by State
+      - Total revenue by State
     
 ![V rev by state](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/a374ebea-d550-48ee-95e6-2cb805324a4e)
 
@@ -134,4 +135,13 @@ Before moving forward, I used SQL queries to validate the dashboard.
   ![V rev by year and category](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/1c74369d-727a-41ab-bfc6-fac05a7342f7)
   
       -	Total units Sold by Year and category
+
+  ![V unitsold by year and category](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/fec9922b-faa6-4302-8b90-e0ea46c8fb5f)
+
+
+## Share findings and insights to Stakeholders
+
+I used the interactive Power Bi dashboard , the executive summary and PowerPoint slides to share my findings to stakeholders.
+
+
 
