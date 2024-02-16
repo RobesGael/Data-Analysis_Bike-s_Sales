@@ -110,6 +110,9 @@ Before moving forward, I used SQL queries to validate the dashboard.
 ![V bottom 10 rev by city](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/860700ff-ea91-40f4-9cf8-7a74f92651a9)
 
       -	Top 10 revenue by customers
+
+  ![V top 10 rev by customers](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/c5dce5e2-5039-468c-b1bd-c1af1ac1259a)
+
       -	Bottom 10 revenue by customers
       -	Total revenue by weekday
       -	Total Revenue by Year and month
