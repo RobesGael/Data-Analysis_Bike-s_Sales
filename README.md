@@ -82,9 +82,11 @@ Before moving forward, I used SQL queries to validate the dashboard.
 ![V rev by year](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/9ce5f871-7e73-4c01-90ff-9e9abc1e97d6)
 
   - Total revenue by State
+    
+![V rev by state](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/a374ebea-d550-48ee-95e6-2cb805324a4e)
 
     
-      -	Total revenue by Store
+      - Total revenue by Store
       -	Total revenue by Brand
       -	Total revenue by Category
       -	Total revenue by state and sales Representant
