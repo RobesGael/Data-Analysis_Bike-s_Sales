@@ -118,6 +118,9 @@ Before moving forward, I used SQL queries to validate the dashboard.
   ![V bottom 10 rev by customer](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/6390361c-6c7d-414c-8eb0-4990e6b8bbfd)
   
       -	Total revenue by weekday
+
+  ![V rev by weekday](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/a8345cf5-77dc-43b9-a98a-e2327e4bcc2b)
+  
       -	Total Revenue by Year and month
       - Total units Sold by Year and month.
       -	Total revenue by Year and category
