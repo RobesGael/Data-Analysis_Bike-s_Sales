@@ -125,10 +125,13 @@ Before moving forward, I used SQL queries to validate the dashboard.
 
   ![V rev by year and month](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/a1c181f2-69ae-46e0-bb3e-292cb4991787)
   
-      - Total units Sold by Year and month.
+      - Total units Sold by Year and month
 
   ![V unitsold by year and month](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/81d0fe55-c218-4b22-b491-d7f198d51ae6)
 
       -	Total revenue by Year and category
-      -	Total units Sold by Year and category.
+
+  ![V rev by year and category](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/1c74369d-727a-41ab-bfc6-fac05a7342f7)
+  
+      -	Total units Sold by Year and category
 
