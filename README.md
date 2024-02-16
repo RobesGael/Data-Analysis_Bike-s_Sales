@@ -90,6 +90,9 @@ Before moving forward, I used SQL queries to validate the dashboard.
 ![V rev by store](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/8d64d9c1-97aa-44f8-acc5-aadf612936bb)
 
       -	Total revenue by Brand
+      
+![V rev by brand](https://github.com/RobesGael/Data-Analysis_Bike-s_Sales/assets/155399653/6e13fa09-71d3-4d02-8799-8af30c5923b6)
+
       -	Total revenue by Category
       -	Total revenue by state and sales Representant
       -	Top 10 revenue by cities
