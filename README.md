@@ -143,14 +143,7 @@ Before moving forward, I used SQL queries to validate the dashboard.
 
 I used the interactive Power Bi dashboard , the executive summary and PowerPoint slides to share my findings to stakeholders.
 
-## Informations
 
-Name: Robes Fokoueng
-Phone: +1 (204) 923-4877
-Email: robesgael123@yahoo.fr
-City: Harrisonburg
-State: VA
-Country: Usa
 
 
 
